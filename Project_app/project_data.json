@@ -1,0 +1,8 @@
+{"fuel_type": {"gas": 1, "diesel": 2}, "aspiration": {"std": 0, "turbo": 1},
+ "num_of_doors": {"two": 2, "four": 4}, "body_style": {"sedan": 1, "hatchback": 2, "wagon": 3, "hardtop": 4, "convertible": 5}, 
+"drive_wheels": {"fwd": 1, "rwd": 2, "4wd": 3},
+ "engine_location": {"front": 1, "rear": 2}, 
+ "engine_type": {"ohc": 1, "ohcf": 2, "ohcv": 3, "dohc": 4, "l": 5, "rotor": 6, "dohcv": 7},
+  "num_of_cylinders": {"four": 4, "six": 6, "five": 5, "eight": 8, "two": 2, "three": 3, "twelve": 12},
+   "columns": ["symboling", "normalized_losses", "make", "fuel_type", "aspiration", "num_of_doors", "body_style", "drive_wheels", "engine_location", "wheel_base", "length", "width", "height", "curb_weight", "engine_type",
+    "num_of_cylinders", "engine_size", "fuel_system", "bore", "stroke", "compression_ratio", "horsepower", "peak_rpm", "city_mpg", "highway_mpg"]}
